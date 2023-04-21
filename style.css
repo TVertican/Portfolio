@@ -1,0 +1,29 @@
+hr{
+    border-top: 5px dotted black;
+} 
+
+.nav{
+    display: inline-block;
+    position: sticky;
+    float: left;
+    top: 0;
+    padding
+}
+
+li{
+    
+    border-right: 1px solid #bbb;
+}
+
+.container {
+    position: relative;
+    text-align: bottom-left;
+    color: white;
+  }
+
+.caption {
+    position:absolute;
+    bottom: 8px;
+    left: 16px;
+    opacity: 0.35;
+  }
